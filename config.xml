@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "in.gagarin.app"
         versionCode = "10"
-        version     = "1.3.0">
+        version     = "1.4.0">
 
     <name>gagarin.in</name>
 
